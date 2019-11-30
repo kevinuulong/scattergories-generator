@@ -1,1 +1,1 @@
-export const Letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+export const Letters = 'ABCDEFGHIJKLMNOPRSTW';
